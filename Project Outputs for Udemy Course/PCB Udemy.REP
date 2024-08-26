@@ -1,0 +1,443 @@
+*************************************************************
+FileName = PCB Udemy.GBR
+AutoAperture = True
+*************************************************************
+Generating : Dielectric5
+      File : PCB Udemy.5
+
+    Adding Layer      : Dielectric5
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric4
+      File : PCB Udemy.4
+
+    Adding Layer      : Dielectric4
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 3
+      File : PCB Udemy.3
+
+    Adding Layer      : Dielectric 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 2
+      File : PCB Udemy.2
+
+    Adding Layer      : Dielectric 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : PCB Udemy.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : PCB Udemy.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 29
+      File : PCB Udemy.GM29
+
+    Adding Layer      : Mechanical 29
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : PCB Udemy.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : PCB Udemy.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D12
+    D13
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB Udemy.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB Udemy.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB Udemy.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB Udemy.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB Udemy.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB Udemy.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB Udemy.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB Udemy.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB Udemy.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB Udemy.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB Udemy.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D46
+    D47
+    D48
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D70
+    D71
+    D72
+    D73
+*************************************************************
+
+*************************************************************
+Generating : 3.3V Layer
+      File : PCB Udemy.GP2
+
+    Adding Layer      : 3.3V Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+*************************************************************
+
+*************************************************************
+Generating : GND Layer
+      File : PCB Udemy.GP1
+
+    Adding Layer      : GND Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : PCB Udemy.G2
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : PCB Udemy.G1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : PCB Udemy.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+

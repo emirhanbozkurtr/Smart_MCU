@@ -1,0 +1,6 @@
+Change Component Comment : Designator=U2 Old Comment=STM32F103C8T6 New Comment=
+Change Component Library : Designator=U2 Old Library=PCB Udemy.SCHLIB New Library=MCU_Udemy.IntLib
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-24
+Add Pin To Net: Unknown Pin: Pin U2-36
+Add Pin To Net: Unknown Pin: Pin U2-48

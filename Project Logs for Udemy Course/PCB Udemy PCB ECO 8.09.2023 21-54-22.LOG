@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U1 Old Footprint=PCBComponent_1 New Footprint=LM1117
+Change Component Comment : Designator=U1 Old Comment= New Comment=LM1117
+Change Component Library : Designator=U1 Old Library=Udemy Course.IntLib New Library=PCB Udemy.SCHLIB
+Added Member To Class: ClassName=Power Supply Udemy Member=Component U1 LM1117

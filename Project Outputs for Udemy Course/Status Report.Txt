@@ -1,0 +1,37 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Udemy Course.PrjPcb]
+   Generated File[PCB Udemy.GTO]
+   Generated File[PCB Udemy.GTP]
+   Generated File[PCB Udemy.GTS]
+   Generated File[PCB Udemy.GTL]
+   Generated File[PCB Udemy.G1]
+   Generated File[PCB Udemy.G2]
+   Generated File[PCB Udemy.GP1]
+   Generated File[PCB Udemy.GP2]
+   Generated File[PCB Udemy.GBL]
+   Generated File[PCB Udemy.GBS]
+   Generated File[PCB Udemy.GBP]
+   Generated File[PCB Udemy.GBO]
+   Generated File[PCB Udemy.GM1]
+   Generated File[PCB Udemy.GM13]
+   Generated File[PCB Udemy.GM15]
+   Generated File[PCB Udemy.GM29]
+   Generated File[PCB Udemy.GKO]
+   Generated File[PCB Udemy.GPT]
+   Generated File[PCB Udemy.GPB]
+   Generated File[PCB Udemy.GML]
+   Generated File[PCB Udemy.1]
+   Generated File[PCB Udemy.2]
+   Generated File[PCB Udemy.4]
+   Generated File[PCB Udemy.3]
+   Generated File[PCB Udemy.5]
+   Generated File[PCB Udemy.RUL]
+   Generated File[PCB Udemy.EXTREP]
+   Generated File[PCB Udemy.REP]
+
+
+Files Generated   : 28
+Documents Printed : 0
+
+Finished Output Generation At 16:10:21 On 13.09.2023

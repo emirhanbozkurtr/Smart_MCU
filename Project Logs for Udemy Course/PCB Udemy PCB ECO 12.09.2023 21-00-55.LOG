@@ -1,0 +1,23 @@
+Added Pin To Net: NetName=PB13 Pin=P4-2
+Added Pin To Net: NetName=PB14 Pin=P4-3
+Added Pin To Net: NetName=PB15 Pin=P4-4
+Added Pin To Net: NetName=PA8 Pin=P4-5
+Added Pin To Net: NetName=PA9 Pin=P4-6
+Added Pin To Net: NetName=PA10 Pin=P4-7
+Added Pin To Net: NetName=PA11 Pin=P4-8
+Added Pin To Net: NetName=PA12 Pin=P4-9
+Added Pin To Net: NetName=PB13 Pin=R5-2
+Added Pin To Net: NetName=PB13 Pin=R6-1
+Added Pin To Net: NetName=PB14 Pin=R7-2
+Added Pin To Net: NetName=PB14 Pin=R8-1
+Added Pin To Net: NetName=PB15 Pin=R9-2
+Added Pin To Net: NetName=PB15 Pin=R10-1
+Added Pin To Net: NetName=PA8 Pin=R11-2
+Added Pin To Net: NetName=PA8 Pin=R12-1
+Added Pin To Net: NetName=PA9 Pin=R13-2
+Added Pin To Net: NetName=PA9 Pin=R14-1
+Added Pin To Net: NetName=PA10 Pin=R15-2
+Added Pin To Net: NetName=PA10 Pin=R16-1
+Added Pin To Net: NetName=PA11 Pin=R17-2
+Added Pin To Net: NetName=PA11 Pin=R18-1
+Added Room: Name=MCU Udemy

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=P3 Old Footprint=MHDR1X3 New Footprint=MHDR1X3body
+Change Component Footprint: Designator=P2 Old Footprint=MHDR1X4 New Footprint=MHDR1X4body
+Change Component Footprint: Designator=Y1 Old Footprint=R38 New Footprint=32768
+Change Component Footprint: Designator=S1 Old Footprint=SPST-2 New Footprint=SPST-2_body
+Change Component Footprint: Designator=Y Old Footprint=XTAL_ECS-240-8-33-AGN-TR New Footprint=8MHZCrystall

@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=PA3 Pin=U2-13
+Removed Pin From Net: NetName=PA4 Pin=U2-14
+Removed Pin From Net: NetName=PA5 Pin=U2-15
+Removed Pin From Net: NetName=PA6 Pin=U2-16
+Removed Pin From Net: NetName=PA7 Pin=U2-17
+Removed Pin From Net: NetName=PB0 Pin=U2-18
+Added Pin To Net: NetName=PA3 Pin=U2-14
+Added Pin To Net: NetName=PA4 Pin=U2-15
+Added Pin To Net: NetName=PA5 Pin=U2-16
+Added Pin To Net: NetName=PA6 Pin=U2-17
+Added Pin To Net: NetName=PA7 Pin=U2-18
+Added Pin To Net: NetName=PB0 Pin=U2-19
+Change Net Name : Old Net Name=PA3 New Net Name=PA4
+Change Net Name : Old Net Name=PA4 New Net Name=PA5
+Change Net Name : Old Net Name=PA5 New Net Name=PA6
+Change Net Name : Old Net Name=PA6 New Net Name=PA7
+Change Net Name : Old Net Name=PA7 New Net Name=PB0
+Change Net Name : Old Net Name=PB0 New Net Name=PB1
+Added Pin To Net: NetName=PA3 Pin=P5-10
+Added Pin To Net: NetName=PA3 Pin=R53-2
+Added Pin To Net: NetName=PA3 Pin=R54-1
+Added Pin To Net: NetName=PA3 Pin=U2-13
+Added Net: Name=PA3

@@ -1,0 +1,24 @@
+Added Component: Designator=C1(0603-CAP)
+Added Component: Designator=C2(0603-CAP)
+Added Component: Designator=C3(0603-CAP)
+Added Component: Designator=P1(HDR-MALE-2P)
+Added Component: Designator=U1(PCBComponent_1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/ds/symlink/lm1117.pdf?ts=1693661767040&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLM1117%253Futm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253Dapp-null-null-GPN_EN-cpc-pf-google-wwe%2526utm_content%253DLM1117%2526ds_k%253DLM1117%2BDatasheet%2526DCM%253Dyes%2526gclid%253DCj0KCQjwusunBhCYARIsAFBsUP-EfZQ_4w22SCOHjBNPWV0Us_SkAtT2YC_2xqzBz3rUpggmxNL9StEaAur4EALw_wcB%2526gclsrc%253Daw.ds"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=C3-2
+Added Pin To Net: NetName=+3.3V Pin=U1-2
+Added Pin To Net: NetName=+3.3V Pin=U1-2
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+9V Pin=C1-2
+Added Pin To Net: NetName=+9V Pin=C2-2
+Added Pin To Net: NetName=+9V Pin=P1-1
+Added Pin To Net: NetName=+9V Pin=U1-0
+Added Net: Name=+9V
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Net: Name=GND
+Added Class: Name=udemy main
+Added Room: Name=udemy main

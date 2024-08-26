@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=P5 Old Footprint=My_1X14 New Footprint=MY_FE14
+Change Component Footprint: Designator=P4 Old Footprint=My_1X16 New Footprint=MY_FE16
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-24
+Add Pin To Net: Unknown Pin: Pin U2-36
+Add Pin To Net: Unknown Pin: Pin U2-48
+Added Room: Name=MCU Udemy
